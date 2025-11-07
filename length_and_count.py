@@ -1,11 +1,9 @@
 def len_and_coun():
 
-
-
     # Length and Count:
     # a. Calculate the number of characters (including spaces and punctuation) in the word/
     phrase = "Supercalifragilisticexpialidocious"
-    character_count = len(text)
+    character_count = len(phrase)
     print(character_count)
 
 
